@@ -1,0 +1,53 @@
+
+==============================
+Order ID: 101
+Customer: Muneeb
+Time: 2025-12-27 10:54:05
+------------------------------
+Customized Cake (1 pound, circle, chocolate) x1 = Rs 1000
+Lotus Biscoff Bar (Small) x1 = Rs 1500
+------------------------------
+TOTAL BILL: Rs 2500
+==============================
+
+==============================
+Order ID: 102
+Customer: m
+Time: 2025-12-27 10:54:55
+------------------------------
+Lotus Biscoff Bar (Small) x1 = Rs 1500
+------------------------------
+TOTAL BILL: Rs 1500
+==============================
+
+==============================
+Order ID: 103
+Customer: M
+Time: 2025-12-27 11:52:34
+------------------------------
+Lotus Biscoff Bar (Small) x1 = Rs 1500
+Lotus Biscoff Bar (Small) x1 = Rs 1500
+------------------------------
+TOTAL BILL: Rs 3000
+==============================
+
+==============================
+Order ID: 104
+Customer: rooha
+Time: 2025-12-27 19:05:55
+------------------------------
+Lotus Biscoff Bar (Small) x1 = Rs 1500
+Customized Cake (1 pound, Heart, Chocolate) x2 = Rs 2000
+------------------------------
+TOTAL BILL: Rs 3500
+==============================
+
+==============================
+Order ID: 105
+Customer: 7
+Time: 2025-12-30 14:04:02
+------------------------------
+Customized Cake (2 pound, Square, Vnilla) x1 = Rs 2000
+------------------------------
+TOTAL BILL: Rs 2000
+==============================
