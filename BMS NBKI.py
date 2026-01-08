@@ -1,6 +1,3 @@
-
-#           OUR MENU
-
 menu_data = {
     "Chocolate Bars": [
         {"name": "Lotus Biscoff Bar", "prices": {"Small": 1500, "Medium": 3000, "Large": 4500, "Two-Bites Box": 2400}},
@@ -369,5 +366,6 @@ def main_program():
         except Exception as e:
             print("Something went wrong.")
             print(e)
+
 
 main_program()
